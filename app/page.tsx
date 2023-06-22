@@ -13,7 +13,7 @@ export default function Home() {
           }}
           weight="bold"
         >
-          Let's
+          Let&apos;s
         </Text>
         <Text
           h1
